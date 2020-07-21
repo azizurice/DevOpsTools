@@ -10,14 +10,14 @@
 
 ## Kubernetes
 
-### VirtualBox
-  [Add virtualbox repository to your linux system and install following this link](https://computingforgeeks.com/how-to-install-latest-virtualbox-on-ubuntu-debian/)
+    ### VirtualBox
+       [Add virtualbox repository to your linux system and install following this link](https://computingforgeeks.com/how-to-install-latest-virtualbox-on-ubuntu-debian/)
 
-### Minikube
-   [Install Minikube following this link](https://phoenixnap.com/kb/install-minikube-on-ubuntu)
+    ### Minikube
+       [Install Minikube following this link](https://phoenixnap.com/kb/install-minikube-on-ubuntu)
 
-### kubectl
-  [Install kubectl on Linux following this link](https://kubernetes.io/docs/tasks/tools/install-kubectl/)
+    ### kubectl
+      [Install kubectl on Linux following this link](https://kubernetes.io/docs/tasks/tools/install-kubectl/)
 
 
 
