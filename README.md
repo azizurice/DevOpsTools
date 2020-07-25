@@ -3,7 +3,7 @@
 ## Docker
 
 ### Run docker as non-root user in Linux
-      Run the following command:
+      Run the following commands to add user in the docker group:
       $ sudo groupadd docker
       $ sudo usermod -aG docker $USER
       $ newgrp docker
