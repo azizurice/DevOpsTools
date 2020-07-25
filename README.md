@@ -2,6 +2,16 @@
 
 ## Docker
 
+### Run docker as non-root user in Linux
+      Run the following command:
+      $ sudo groupadd docker
+      $ sudo usermod -aG docker $USER
+      $ newgrp docker
+      
+      That's it.
+      $ docker version 
+     
+
 ## Jenkins
 
 ## Ansible
