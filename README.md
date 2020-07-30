@@ -42,3 +42,7 @@ Few other important servers:
 [Microservices, Event-Driven Architecture and Kafka](https://dzone.com/articles/microservices-event-driven-architecture-and-kafka)
 
 ## ELK Stack
+
+
+## MongoDB
+ [How to install MongoDB on Ubuntu 20.04](https://linuxhint.com/install_mongodb_ubuntu_20_04/)
