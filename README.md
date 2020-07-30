@@ -45,5 +45,5 @@ Few other important servers:
 
 
 ## MongoDB
- [How to install MongoDB on Ubuntu 20.04](https://linuxhint.com/install_mongodb_ubuntu_20_04/) in an easy way. It may not install up-to-date version. To install the latest comunity edition on your preferred platform using your preferred package manager, please follow the link below:
+ [Install MongoDB on Ubuntu 20.04](https://linuxhint.com/install_mongodb_ubuntu_20_04/) in an easy way. It may not install up-to-date version. To install the latest comunity edition on your preferred platform using your preferred package manager, please follow the link below:
  [Install MongoDB Community Edition](https://docs.mongodb.com/manual/administration/install-community/)
