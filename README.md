@@ -44,6 +44,12 @@ Few other important servers:
 ## ELK Stack
 
 
+## HAProxy 
+ [HAProxy](https://www.haproxy.com/) is a free, very fast and reliable solution offering high availability, load balancing, and proxying for TCP and HTTP-based applications. Please see the following link:
+ [Load Balancing using HAProxy](https://www.digitalocean.com/community/tutorials/an-introduction-to-haproxy-and-load-balancing-concepts)
+ [How to use HAProxy for Loadbalancing](https://www.linode.com/docs/uptime/loadbalancing/how-to-use-haproxy-for-load-balancing/)
+
+
  ## Database Management Systems:  
  <hr/>
  
@@ -56,10 +62,7 @@ Few other important servers:
  [Install MongoDB on Ubuntu 20.04](https://linuxhint.com/install_mongodb_ubuntu_20_04/) in an easy way. It may not install up-to-date version. To install the latest comunity edition on your preferred platform using your preferred package manager, please follow the link below:
  [Install MongoDB Community Edition](https://docs.mongodb.com/manual/administration/install-community/)
  
- ## HAProxy 
- [HAProxy](https://www.haproxy.com/) is a free, very fast and reliable solution offering high availability, load balancing, and proxying for TCP and HTTP-based applications. Please see the following link:
- [Load Balancing using HAProxy](https://www.digitalocean.com/community/tutorials/an-introduction-to-haproxy-and-load-balancing-concepts)
- [How to use HAProxy for Loadbalancing](https://www.linode.com/docs/uptime/loadbalancing/how-to-use-haproxy-for-load-balancing/)
+
  
  ## Testing Tools:  
  <hr/>
