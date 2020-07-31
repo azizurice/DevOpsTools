@@ -60,10 +60,13 @@ Few other important servers:
  [SonarQube](https://www.sonarqube.org/) is an open-source platform for continuous inspection of code quality to perform automatic reviews with static analysis of code to detect bugs, code smells, and security vulnerabilities.
  
  ### PMD
+ [PMD](https://pmd.github.io/) is a static source code analyzer for finding common programming flaws like unused variables, empty catch blocks, unnecessary object creation, and so forth. PMD includes built-in rule sets and supports the ability to write custom rules. 
  
  ### Checkstyle
  [Checkstyle](https://github.com/checkstyle/checkstyle) is a static code analysis tool for checking if Java source code complies with coding rules. This tool is fully configurable to your preferences such as [Sun Code Conventions](https://www.oracle.com/java/technologies/javase/codeconventions-contents.html) or [Google Java Style](https://checkstyle.sourceforge.io/reports/google-java-style.html).
  
  ### FindBugs
+ [FindBugs](http://findbugs.sourceforge.net/) specifically looks for bugs in Java Code; it covers for [over 400 different bugs](http://findbugs.sourceforge.net/bugDescriptions.html).
  
  ### Codacy
+ [Codacy](https://www.codacy.com/) is an automated code analysis/quality tool 
