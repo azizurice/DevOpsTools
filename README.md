@@ -48,10 +48,11 @@ Few other important servers:
  [Install MongoDB on Ubuntu 20.04](https://linuxhint.com/install_mongodb_ubuntu_20_04/) in an easy way. It may not install up-to-date version. To install the latest comunity edition on your preferred platform using your preferred package manager, please follow the link below:
  [Install MongoDB Community Edition](https://docs.mongodb.com/manual/administration/install-community/)
  
- ## SonarQube
- [SonarQube](https://www.sonarqube.org/) is an open-source platform for continuous inspection of code quality to perform automatic reviews with static analysis of code to detect bugs, code smells, and security vulnerabilities.
-  
  ## HAProxy 
  [HAProxy](https://www.haproxy.com/) is a free, very fast and reliable solution offering high availability, load balancing, and proxying for TCP and HTTP-based applications. Please see the following link:
  [Load Balancing using HAProxy](https://www.digitalocean.com/community/tutorials/an-introduction-to-haproxy-and-load-balancing-concepts)
  [How to use HAProxy for Loadbalancing](https://www.linode.com/docs/uptime/loadbalancing/how-to-use-haproxy-for-load-balancing/)
+ 
+ ## Testing Tools:  
+ ### SonarQube
+ [SonarQube](https://www.sonarqube.org/) is an open-source platform for continuous inspection of code quality to perform automatic reviews with static analysis of code to detect bugs, code smells, and security vulnerabilities.
