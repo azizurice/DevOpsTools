@@ -44,7 +44,15 @@ Few other important servers:
 ## ELK Stack
 
 
+ ## Database Management Systems:  
+ <hr/>
+ 
+## MySQL
+[MySQL](https://www.mysql.com/) is an open-source relational database management system.
+ 
 ## MongoDB
+[MongoDB](https://www.mongodb.com/) is a cross-platform document-oriented NoSQL database program. MongoDB uses JSON-like documents with optional schemas.
+
  [Install MongoDB on Ubuntu 20.04](https://linuxhint.com/install_mongodb_ubuntu_20_04/) in an easy way. It may not install up-to-date version. To install the latest comunity edition on your preferred platform using your preferred package manager, please follow the link below:
  [Install MongoDB Community Edition](https://docs.mongodb.com/manual/administration/install-community/)
  
