@@ -7,10 +7,10 @@
       $ sudo groupadd docker
       $ sudo usermod -aG docker $USER
       $ newgrp docker
-      
+
       That's it.
-      $ docker version 
-     
+      $ docker version
+
 
 ## Jenkins
 
@@ -20,7 +20,7 @@
 
 ## Kubernetes
 <blockquote>
-   
+
 ### VirtualBox
    [Add virtualbox repositor and install following this link](https://computingforgeeks.com/how-to-install-latest-virtualbox-on-ubuntu-debian/)
  B
@@ -44,7 +44,7 @@ Few other important servers:
 ## ELK Stack
 
 
-## HAProxy 
+## HAProxy
  [HAProxy](https://www.haproxy.com/) is a free, very fast and reliable solution offering high availability, load balancing, and proxying for TCP and HTTP-based applications. Please see the following link:
  [Load Balancing using HAProxy](https://www.digitalocean.com/community/tutorials/an-introduction-to-haproxy-and-load-balancing-concepts)
  [How to use HAProxy for Loadbalancing](https://www.linode.com/docs/uptime/loadbalancing/how-to-use-haproxy-for-load-balancing/)
@@ -52,32 +52,32 @@ Few other important servers:
 
  ## Database Management Systems:  
  <hr/>
- 
+
 ## MySQL
 [MySQL](https://www.mysql.com/) is an open-source relational database management system.
- 
+
 ## MongoDB
 [MongoDB](https://www.mongodb.com/) is a cross-platform document-oriented NoSQL database program. MongoDB uses JSON-like documents with optional schemas.
 
  [Install MongoDB on Ubuntu 20.04](https://linuxhint.com/install_mongodb_ubuntu_20_04/) in an easy way. It may not install up-to-date version. To install the latest comunity edition on your preferred platform using your preferred package manager, please follow the link below:
  [Install MongoDB Community Edition](https://docs.mongodb.com/manual/administration/install-community/)
- 
 
- 
+
+
  ## Testing Tools:  
  <hr/>
- 
+
  ### SonarQube
  [SonarQube](https://www.sonarqube.org/) is an open-source platform for continuous inspection of code quality to perform automatic reviews with static analysis of code to detect bugs, code smells, and security vulnerabilities.
- 
+
  ### PMD
- [PMD](https://pmd.github.io/) is a static source code analyzer for finding common programming flaws like unused variables, empty catch blocks, unnecessary object creation, and so forth. PMD includes built-in rule sets and supports the ability to write custom rules. 
- 
+ [PMD](https://pmd.github.io/) is a static source code analyzer for finding common programming flaws like unused variables, empty catch blocks, unnecessary object creation, and so forth. PMD includes built-in rule sets and supports the ability to write custom rules.
+
  ### Checkstyle
  [Checkstyle](https://github.com/checkstyle/checkstyle) is a static code analysis tool for checking if Java source code complies with coding rules. This tool is fully configurable to your preferences such as [Sun Code Conventions](https://www.oracle.com/java/technologies/javase/codeconventions-contents.html) or [Google Java Style](https://checkstyle.sourceforge.io/reports/google-java-style.html).
- 
+
  ### FindBugs
  [FindBugs](http://findbugs.sourceforge.net/) specifically looks for bugs in Java Code; it covers for [over 400 different bugs](http://findbugs.sourceforge.net/bugDescriptions.html).
- 
+
  ### Codacy
- [Codacy](https://www.codacy.com/) is an automated code analysis/quality tool 
+ [Codacy](https://www.codacy.com/) is an automated code analysis/quality tool
