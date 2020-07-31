@@ -1,6 +1,9 @@
 # MongoDB
 MongoDB is a document database built on a scale-out(horizontal) architecture that has become popular with developers of all kinds who are building scalable applications using agile methodologies. It stores data as BSON documents which is a binary representation of JSON.  The BSON encoding extends JSON with additional types such as int, long, date, floating point, and decimal128. This makes it much easier for applications using MongoDB to reliably process, sort, and compare data.
 
+
+[Introduction to MongoDB](https://docs.mongodb.com/manual/introduction/)
+
 Here’s a JSON document describing contact information with location:
 
 ```json
@@ -33,3 +36,25 @@ Here’s a JSON document describing contact information with location:
 }
 ```
 [MongoDB Architecture](https://info-mongodb-com.s3.us-east-1.amazonaws.com/MongoDB_Architecture_Guide.pdf)
+
+### Document Databases
+
+  Document : A record in MongoDB is a document, which is a data structure composed of field and value pairs.MongoDB documents are similar to JSON objects like the above one.
+
+  Collections/Views/On-Demand Materialized Views : MongoDB stores documents in collections. Collections are analogous to tables in relational databases. In addition to collections, MongoDB supports: Read-only Views and On-Demand Materialized Views.
+
+###  Key Features
+
+    High Performance
+
+    Rich Query Language
+
+    High Availability
+
+    Horizontal Scalability
+
+    Support for Multiple Storage Engines
+
+
+### Practical
+    [Getting Started ](https://docs.mongodb.com/manual/tutorial/getting-started/)
