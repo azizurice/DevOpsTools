@@ -57,4 +57,4 @@ Here’s a JSON document describing contact information with location:
 
 
 ### Practical
-    [Getting Started ](https://docs.mongodb.com/manual/tutorial/getting-started/)
+    [Getting Started](https://docs.mongodb.com/manual/tutorial/getting-started/)
