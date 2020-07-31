@@ -23,7 +23,7 @@
    
 ### VirtualBox
    [Add virtualbox repositor and install following this link](https://computingforgeeks.com/how-to-install-latest-virtualbox-on-ubuntu-debian/)
-
+ B
 ### Minikube
    [Install Minikube following this link](https://phoenixnap.com/kb/install-minikube-on-ubuntu)
 
@@ -49,4 +49,6 @@ Few other important servers:
  [Install MongoDB Community Edition](https://docs.mongodb.com/manual/administration/install-community/)
  
  ## HAProxy 
- HAProxy is a free, very fast and reliable solution offering high availability, load balancing, and proxying for TCP and HTTP-based applications.
+ HAProxy is a free, very fast and reliable solution offering high availability, load balancing, and proxying for TCP and HTTP-based applications. Please see the following link:
+ [Load Balancing using HAProxy](https://www.digitalocean.com/community/tutorials/an-introduction-to-haproxy-and-load-balancing-concepts)
+ [How to use HAProxy for Loadbalancing](https://www.linode.com/docs/uptime/loadbalancing/how-to-use-haproxy-for-load-balancing/)
