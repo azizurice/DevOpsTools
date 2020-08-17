@@ -81,3 +81,7 @@ Few other important servers:
 
  ### Codacy
  [Codacy](https://www.codacy.com/) is an automated code analysis/quality tool
+ 
+ ### Gatling
+ [Gatling](https://gatling.io/) is an open-source load- and performance-testing framework.
+ (https://repo1.maven.org/maven2/io/gatling/highcharts/gatling-charts-highcharts-bundle/3.3.1/gatling-charts-highcharts-bundle-3.3.1-bundle.zip)
