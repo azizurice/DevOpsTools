@@ -84,4 +84,7 @@ Few other important servers:
  
  ### Gatling
  [Gatling](https://gatling.io/) is an open-source load- and performance-testing framework.
- (https://repo1.maven.org/maven2/io/gatling/highcharts/gatling-charts-highcharts-bundle/3.3.1/gatling-charts-highcharts-bundle-3.3.1-bundle.zip)
+ 
+ #### [Install Gatling on Ubuntu](https://www.blazemeter.com/blog/how-to-install-gatling-on-ubuntu)
+ Download latest stable version from the following link:
+ wget(https://repo1.maven.org/maven2/io/gatling/highcharts/gatling-charts-highcharts-bundle/3.3.1/gatling-charts-highcharts-bundle-3.3.1-bundle.zip)
