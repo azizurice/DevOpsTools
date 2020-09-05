@@ -77,3 +77,6 @@ Here’s a JSON document describing contact information with location:
      $ sudo apt purge mongodb
      $ sudo apt autoremove
 
+### MongoDB Atlas Free Tier Cluster
+
+MongoDB Atlas is a fast, easy, and free way to get started with MongoDB. [Getting Started with Atlas](https://docs.atlas.mongodb.com/getting-started/)
