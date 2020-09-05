@@ -59,3 +59,21 @@ Here’s a JSON document describing contact information with location:
 ### Practical
 
 [Getting Started](https://docs.mongodb.com/manual/tutorial/getting-started/)
+
+
+### Few Important Commands
+     $ sudo apt install mongodb                  # Download and install MongodDB
+     $ sudo systemctl status mongodb             # MongoDB status checking
+     $ sudo systemctl start mongodb              # MongoDB starts command
+     $ sudo systemctl stop mongodb               # MongoDB stop command
+     $ sudo systemctl restart mongodb            # MongoDB restart command
+     $ sudo systemctl enable mongodb             # Enable option MongoDB when the system boots
+     $ sudo systemctl disable mongodb            # Disable option for MongoDB when the system boots
+     $ sudo mongo                                # Starting MongoDB shell
+     
+     # Uninstall MongoDB
+     
+     $ sudo systemctl stop mongodb
+     $ sudo apt purge mongodb
+     $ sudo apt autoremove
+
